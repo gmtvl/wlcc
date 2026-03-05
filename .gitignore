@@ -1,0 +1,15 @@
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+# MSVC
+*.idb
+*.tlog
+*.log
+
+# VS folders
+.vs/
+
+# Optional: ignore VS Code settings
+.vscode/
