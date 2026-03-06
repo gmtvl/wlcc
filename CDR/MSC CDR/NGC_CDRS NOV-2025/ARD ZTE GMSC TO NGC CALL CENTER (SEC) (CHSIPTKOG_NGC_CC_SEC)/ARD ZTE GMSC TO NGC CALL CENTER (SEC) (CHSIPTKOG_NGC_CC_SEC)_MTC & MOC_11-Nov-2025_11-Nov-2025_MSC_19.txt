@@ -1,0 +1,11 @@
+For  MSC            : CH_ZTE GMSC
+For the Trunk         : ARD ZTE GMSC TO NGC CALL CENTER (SEC) (CHSIPTKOG_NGC_CC_SEC)
+Period              : 11-Nov-2025 To 11-Nov-2025
+Export CDR          : CALL
+Call Direction      : MTC & MOC
+ 
+No Data Found for the above criteria.
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  

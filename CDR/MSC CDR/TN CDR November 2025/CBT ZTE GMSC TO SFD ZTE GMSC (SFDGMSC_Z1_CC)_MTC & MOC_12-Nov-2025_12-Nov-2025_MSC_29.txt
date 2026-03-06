@@ -1,0 +1,11 @@
+For  MSC            : COIMBATORE ZTE GMSC
+For the Trunk         : CBT ZTE GMSC TO SFD ZTE GMSC (SFDGMSC_Z1_CC)
+Period              : 12-Nov-2025 To 12-Nov-2025
+Export CDR          : CALL
+Call Direction      : MTC & MOC
+ 
+No Data Found for the above criteria.
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  

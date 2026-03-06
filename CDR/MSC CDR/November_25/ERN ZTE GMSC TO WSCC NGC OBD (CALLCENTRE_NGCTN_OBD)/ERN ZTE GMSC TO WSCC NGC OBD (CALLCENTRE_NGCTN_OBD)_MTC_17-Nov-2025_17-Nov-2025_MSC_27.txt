@@ -1,0 +1,12 @@
+For  MSC            : ERNAKULAM ZTE GMSC(PANAMPALLY NAGAR)
+For the Trunk         : ERN ZTE GMSC TO WSCC NGC OBD (CALLCENTRE_NGCTN_OBD)
+Period              : 17-Nov-2025 To 17-Nov-2025
+Export CDR          : CALL
+Call Direction      : MTC
+ 
+Call Type      Calling Number                    Called Number		    Date & Time		    Duration
+------------------------------------------------------------------------------------------------------------------------------------------------------
+50		919400001503    		9124919495028232	17-11-2025 12:50:52		33
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  

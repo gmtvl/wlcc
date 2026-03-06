@@ -1,0 +1,11 @@
+For  MSC            : ERNAKULAM ZTE GMSC(PANAMPALLY NAGAR)
+For the Trunk         : ERN ZTE GMSC TO NGC CALL CENTER (CALLCENTRE_NGCTN_SECONDARY)
+Period              : 10-Nov-2025 To 10-Nov-2025
+Export CDR          : CALL
+Call Direction      : MTC & MOC
+ 
+No Data Found for the above criteria.
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  

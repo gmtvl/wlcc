@@ -1,0 +1,11 @@
+For  MSC            : COIMBATORE ZTE GMSC
+For the Trunk         : CBT ZTE GMSC TO NGC CALL CENTER (BSNLCC_NGC2)
+Period              : 08-Nov-2025 To 08-Nov-2025
+Export CDR          : CALL
+Call Direction      : MTC & MOC
+ 
+No Data Found for the above criteria.
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  

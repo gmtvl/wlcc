@@ -1,0 +1,11 @@
+For  MSC            : CH_ZTE GMSC
+For the Trunk         : CH ZTE GMSC TO SFD ZTE GMSC (CALLCENTRE_HYD)
+Period              : 18-Nov-2025 To 18-Nov-2025
+Export CDR          : CALL
+Call Direction      : MTC & MOC
+ 
+No Data Found for the above criteria.
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  
