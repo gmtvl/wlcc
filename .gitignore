@@ -18,3 +18,5 @@ build/
 
 # Optional: ignore VS Code settings
 .vscode/
+
+CDR/
